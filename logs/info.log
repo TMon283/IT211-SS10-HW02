@@ -1,0 +1,8 @@
+2026-05-27 00:01:08 [restartedMain] INFO  c.e.i.It211Ss10Hw02Application - Starting It211Ss10Hw02Application using Java 17.0.18 with PID 4932 (C:\Users\ADMIN\Desktop\IT211-SS10-HW02\build\classes\java\main started by ADMIN in C:\Users\ADMIN\Desktop\IT211-SS10-HW02)
+2026-05-27 00:01:08 [restartedMain] INFO  c.e.i.It211Ss10Hw02Application - No active profile set, falling back to 1 default profile: "default"
+2026-05-27 00:01:10 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2026-05-27 00:01:11 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3451abb3
+2026-05-27 00:01:11 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2026-05-27 00:01:14 [restartedMain] INFO  c.e.i.It211Ss10Hw02Application - Started It211Ss10Hw02Application in 6.032 seconds (process running for 7.252)
+2026-05-27 00:01:22 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2026-05-27 00:01:22 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
